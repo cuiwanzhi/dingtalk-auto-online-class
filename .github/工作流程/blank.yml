@@ -1,0 +1,9 @@
+-名称：首次互动
+  用途：actions/first-interaction@v1.0.0
+  与：
+    ＃回购的令牌。可以使用{{secrets.GITHUB_TOKEN}}来传递
+    回购令牌： 
+    ＃发表个人第一期评论
+    问题消息：＃可选
+    ＃发表个人首次拉取请求的评论
+    pr-message：＃可选
